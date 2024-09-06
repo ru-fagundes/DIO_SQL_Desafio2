@@ -14,13 +14,11 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 >- Os mecânicos possuem código, nome, endereço e especialidade.
 >- Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
 
-📷 Imagem do projeto:
-
-
-☑️ Tecnologias:
+## ☑️ Tecnologias:
 >- MySQL Workbench
 
-💻 Copyright (C) 2024 by Rubia Fagundes
+### 📝👩‍💻 Autor(a):
+> Rubia Fagundes
 
 
 
